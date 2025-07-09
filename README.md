@@ -1,39 +1,58 @@
-  🌸 FemiVerse – Bridging the Gender Gap in Digital Healthcare
-FemiVerse is an AI-powered, privacy-first web platform crafted to address the underrepresentation of women in digital health. Focused on transparency, explainability, and personalized care, it offers smart, rule-based insights for female-specific conditions like PCOS, PMDD, and more.
+# 🌸 FemiVerse – Empowering Women Through Explainable AI in Health
+_“Empathy meets Explainability. That’s the FemiVerse way.”_
 
-💡 Empathy + Explainability = Empowerment
-— FemiVerse
+**FemiVerse** is a rule-based AI platform delivering **transparent**, **explainable**, and **personalized** health insights, built specifically for women. 🌟
 
-Instead of black-box machine learning, FemiVerse uses deterministic clinical logic to ensure each recommendation is:
-🔍 Traceable | 💬 Understandable | ✅ Clinically Relevant
+In contrast to generic or male-dominant health tech solutions, FemiVerse customizes care using expert-curated **if-then rules** and **decision trees**, focusing on female-specific conditions like **PCOS, PMDD**, and more.
 
-🚀 Live App
-🔗 https://femiverseai.vercel.app
+## 🚀 Live Demo
+
+🔗 [https://femiverseai.vercel.app](https://femiverseai.vercel.app) 
+
+## ✨ Key Highlights
+
+- 💡 **Rule-based logic engine** for deterministic decisions (no ML black boxes!)
+- 🔍 **Explainable outputs** with traceable reasoning
+- 👩‍⚕️ Tailored specifically for **female health concerns**
+- 🔐 **Privacy-first**: No tracking, no login required
+- 🤖 Integrated **Google Gemini AI** for conversational support
+- 🧠 Grounded in **clinical evidence and medical protocols**
+
+---
+
+## 🛠️ Tech Stack
+
+### 📚 Languages
+- **TypeScript** – Strongly typed JS
+- **JavaScript (ES6+)** – Client-side logic
+- **CSS** – Via Tailwind for responsive UI
+
+### 🎨 Frontend
+- **Next.js 15**
+- **React 18**
+- **Tailwind CSS**
+- **Shadcn/UI**
+- **Radix UI**
+- **Lucide React**
+- **Class Variance Authority (CVA)**
+
+### 🔧 Dev Tools
+- **ESLint** – Enforcing consistent code style
+- **Prettier** – Auto-code formatting
+- **Tailwind Animate** – Utility classes for subtle animations
+- **Vercel** – Fast deployment & hosting
+
+### 🧠 AI & Logic
+- **Custom Rule-Based Engine** – Deterministic, no ML dependency
+- **Google Gemini API** – Conversational AI for health Q&A
+
+---
+
+## 📸 Preview
+
+_> “In a world where most digital health tools are built on male-dominant data or one-size-fits-all models, FemiVerse stands for inclusivity, accuracy, and empowerment.”_ 
 
 
-✨ Key Features
-👩‍⚕️ Female-Focused Symptom Checker
+## 📝 License
 
-🧠 Explainable AI (Rule-Based Engine)
-
-📝 Personalized Recommendations
-
-🔐 No Login, No Tracking – Privacy-First
-
-🤖 Google Gemini Integration for Smart Chat
-
-🎨 Minimal, Accessible & Responsive UI
-
-🛠️ Tech Stack
-📦 Framework & Languages:
-React 18, Next.js 15, TypeScript, JavaScript
-
-🎨 UI & Styling:
-Tailwind CSS, Radix UI, Shadcn/UI, Lucide React
-
-🤖 AI & Logic:
-Custom Rule-Based Engine, Google Gemini API (Client-side)
-
-🛠️ Dev Tools:
-Vercel (Deployment), Prettier, ESLint, Tailwind Animate
-
+This project is for educational and prototype purposes. Contact the team for collaboration or licensing opportunities.
