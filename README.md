@@ -1,4 +1,4 @@
-🌸 FemiVerse – Bridging the Gender Gap in Digital Healthcare
+  🌸 FemiVerse – Bridging the Gender Gap in Digital Healthcare
 FemiVerse is an AI-powered, privacy-first web platform crafted to address the underrepresentation of women in digital health. Focused on transparency, explainability, and personalized care, it offers smart, rule-based insights for female-specific conditions like PCOS, PMDD, and more.
 
 💡 Empathy + Explainability = Empowerment
