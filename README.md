@@ -7,7 +7,7 @@ In contrast to generic or male-dominant health tech solutions, FemiVerse customi
 
 ## 🚀 Live Demo
 
-🔗 [https://femiverseai.vercel.app](https://femiverseai.vercel.app) 
+🔗 [https://femiverseai.vercel.app](https://femiverseai.vercel.app/) 
 
 ## ✨ Key Highlights
 
